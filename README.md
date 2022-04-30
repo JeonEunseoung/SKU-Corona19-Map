@@ -1,6 +1,6 @@
 # SKU-Corona19-Map
 SPRING과 MYSQL을 활용한 코로나 감염 현황 및 선별진료소 검색 커뮤니티
-<img width="500" src="https://user-images.githubusercontent.com/71426985/166098690-2e9e5338-f706-49b2-99b8-cd2e7354e53e.png">
+<img width="900" src="https://user-images.githubusercontent.com/71426985/166098690-2e9e5338-f706-49b2-99b8-cd2e7354e53e.png">
 <h3>1. 프로젝트 환경 및 데이터</h3>
 <ul>
   <li>OS : Window 10</li>
